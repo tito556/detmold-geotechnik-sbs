@@ -1,0 +1,48 @@
+# Geotechnik — Detmold
+
+> Geotechnical engineering services in Detmold, Deutschland.
+
+## Services
+- [Anker](https://detmold.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://detmold.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://detmold.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://detmold.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://detmold.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://detmold.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://detmold.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://detmold.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://detmold.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://detmold.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://detmold.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://detmold.geotechnik.sbs/fundamente/)
+- [Geophysik](https://detmold.geotechnik.sbs/geophysik/)
+- [Grundungen](https://detmold.geotechnik.sbs/grundungen/)
+- [Hange](https://detmold.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://detmold.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://detmold.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://detmold.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://detmold.geotechnik.sbs/labor/)
+- [Labor In Situ](https://detmold.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://detmold.geotechnik.sbs/masw/)
+- [Pfahle](https://detmold.geotechnik.sbs/pfahle/)
+- [Ruttelverdichtung](https://detmold.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://detmold.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://detmold.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://detmold.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://detmold.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://detmold.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://detmold.geotechnik.sbs/seismische-refraktion/)
+- [Starrer Belag](https://detmold.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://detmold.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://detmold.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://detmold.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://detmold.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://detmold.geotechnik.sbs/untersuchung/)
+- [Weichbodentunnel](https://detmold.geotechnik.sbs/weichbodentunnel/)
+
+## Contact
+- Website: https://detmold.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Detmold, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
